@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fd222ugTWMQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kader\\Desktop\\Bassic C#\\05.Number100.to200\\05.Number100.to200.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kader\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\kader\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\kader\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\kader\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

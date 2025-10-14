@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EU+ho33MJFA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kader\\Desktop\\Bassic C#\\06.SpeedInfo\\06.SpeedInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kader\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\kader\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\kader\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\kader\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
