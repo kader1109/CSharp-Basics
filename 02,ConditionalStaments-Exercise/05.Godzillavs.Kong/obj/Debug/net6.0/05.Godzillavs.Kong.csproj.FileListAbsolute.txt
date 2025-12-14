@@ -1,0 +1,14 @@
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\bin\Debug\net6.0\05.Godzillavs.Kong.exe
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\bin\Debug\net6.0\05.Godzillavs.Kong.deps.json
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\bin\Debug\net6.0\05.Godzillavs.Kong.runtimeconfig.json
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\bin\Debug\net6.0\05.Godzillavs.Kong.dll
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\bin\Debug\net6.0\05.Godzillavs.Kong.pdb
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\obj\Debug\net6.0\05.Godzillavs.Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\obj\Debug\net6.0\05.Godzillavs.Kong.AssemblyInfoInputs.cache
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\obj\Debug\net6.0\05.Godzillavs.Kong.AssemblyInfo.cs
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\obj\Debug\net6.0\05.Godzillavs.Kong.csproj.CoreCompileInputs.cache
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\obj\Debug\net6.0\05.Godzillavs.Kong.dll
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\obj\Debug\net6.0\refint\05.Godzillavs.Kong.dll
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\obj\Debug\net6.0\05.Godzillavs.Kong.pdb
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\obj\Debug\net6.0\05.Godzillavs.Kong.genruntimeconfig.cache
+C:\Users\kader\Desktop\Bassic C#\05.Godzillavs.Kong\obj\Debug\net6.0\ref\05.Godzillavs.Kong.dll

@@ -1,0 +1,14 @@
+C:\Users\kader\Desktop\Bassic C#\Shoping\bin\Debug\net6.0\Shoping.exe
+C:\Users\kader\Desktop\Bassic C#\Shoping\bin\Debug\net6.0\Shoping.deps.json
+C:\Users\kader\Desktop\Bassic C#\Shoping\bin\Debug\net6.0\Shoping.runtimeconfig.json
+C:\Users\kader\Desktop\Bassic C#\Shoping\bin\Debug\net6.0\Shoping.dll
+C:\Users\kader\Desktop\Bassic C#\Shoping\bin\Debug\net6.0\Shoping.pdb
+C:\Users\kader\Desktop\Bassic C#\Shoping\obj\Debug\net6.0\Shoping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Desktop\Bassic C#\Shoping\obj\Debug\net6.0\Shoping.AssemblyInfoInputs.cache
+C:\Users\kader\Desktop\Bassic C#\Shoping\obj\Debug\net6.0\Shoping.AssemblyInfo.cs
+C:\Users\kader\Desktop\Bassic C#\Shoping\obj\Debug\net6.0\Shoping.csproj.CoreCompileInputs.cache
+C:\Users\kader\Desktop\Bassic C#\Shoping\obj\Debug\net6.0\Shoping.dll
+C:\Users\kader\Desktop\Bassic C#\Shoping\obj\Debug\net6.0\refint\Shoping.dll
+C:\Users\kader\Desktop\Bassic C#\Shoping\obj\Debug\net6.0\Shoping.pdb
+C:\Users\kader\Desktop\Bassic C#\Shoping\obj\Debug\net6.0\Shoping.genruntimeconfig.cache
+C:\Users\kader\Desktop\Bassic C#\Shoping\obj\Debug\net6.0\ref\Shoping.dll
