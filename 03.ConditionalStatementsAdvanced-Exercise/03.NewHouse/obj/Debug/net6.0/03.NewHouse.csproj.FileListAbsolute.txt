@@ -1,0 +1,14 @@
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\bin\Debug\net6.0\03.NewHouse.exe
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\bin\Debug\net6.0\03.NewHouse.deps.json
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\bin\Debug\net6.0\03.NewHouse.runtimeconfig.json
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\bin\Debug\net6.0\03.NewHouse.dll
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\bin\Debug\net6.0\03.NewHouse.pdb
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\obj\Debug\net6.0\03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\obj\Debug\net6.0\03.NewHouse.AssemblyInfoInputs.cache
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\obj\Debug\net6.0\03.NewHouse.AssemblyInfo.cs
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\obj\Debug\net6.0\03.NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\obj\Debug\net6.0\03.NewHouse.dll
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\obj\Debug\net6.0\refint\03.NewHouse.dll
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\obj\Debug\net6.0\03.NewHouse.pdb
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\obj\Debug\net6.0\03.NewHouse.genruntimeconfig.cache
+C:\Users\kader\Desktop\Bassic C#\03.NewHouse\obj\Debug\net6.0\ref\03.NewHouse.dll
