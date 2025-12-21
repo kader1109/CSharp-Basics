@@ -1,0 +1,14 @@
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\bin\Debug\net6.0\02.Numbers_N._to_1.exe
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\bin\Debug\net6.0\02.Numbers_N._to_1.deps.json
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\bin\Debug\net6.0\02.Numbers_N._to_1.runtimeconfig.json
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\bin\Debug\net6.0\02.Numbers_N._to_1.dll
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\bin\Debug\net6.0\02.Numbers_N._to_1.pdb
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\obj\Debug\net6.0\02.Numbers_N._to_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\obj\Debug\net6.0\02.Numbers_N._to_1.AssemblyInfoInputs.cache
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\obj\Debug\net6.0\02.Numbers_N._to_1.AssemblyInfo.cs
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\obj\Debug\net6.0\02.Numbers_N._to_1.csproj.CoreCompileInputs.cache
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\obj\Debug\net6.0\02.Numbers_N._to_1.dll
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\obj\Debug\net6.0\refint\02.Numbers_N._to_1.dll
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\obj\Debug\net6.0\02.Numbers_N._to_1.pdb
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\obj\Debug\net6.0\02.Numbers_N._to_1.genruntimeconfig.cache
+C:\Users\kader\Desktop\Bassic C#\02.Numbers_N._to_1\obj\Debug\net6.0\ref\02.Numbers_N._to_1.dll
