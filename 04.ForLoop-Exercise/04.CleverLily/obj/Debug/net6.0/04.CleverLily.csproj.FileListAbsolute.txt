@@ -1,0 +1,14 @@
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\bin\Debug\net6.0\04.CleverLily.exe
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\bin\Debug\net6.0\04.CleverLily.deps.json
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\bin\Debug\net6.0\04.CleverLily.runtimeconfig.json
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\bin\Debug\net6.0\04.CleverLily.dll
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\bin\Debug\net6.0\04.CleverLily.pdb
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\obj\Debug\net6.0\04.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\obj\Debug\net6.0\04.CleverLily.AssemblyInfoInputs.cache
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\obj\Debug\net6.0\04.CleverLily.AssemblyInfo.cs
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\obj\Debug\net6.0\04.CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\obj\Debug\net6.0\04.CleverLily.dll
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\obj\Debug\net6.0\refint\04.CleverLily.dll
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\obj\Debug\net6.0\04.CleverLily.pdb
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\obj\Debug\net6.0\04.CleverLily.genruntimeconfig.cache
+C:\Users\kader\Desktop\Bassic C#\04.CleverLily\obj\Debug\net6.0\ref\04.CleverLily.dll

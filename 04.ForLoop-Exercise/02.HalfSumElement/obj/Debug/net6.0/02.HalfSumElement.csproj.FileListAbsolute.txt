@@ -1,0 +1,14 @@
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.exe
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.deps.json
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.runtimeconfig.json
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.dll
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.pdb
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.AssemblyInfoInputs.cache
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.AssemblyInfo.cs
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.dll
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\obj\Debug\net6.0\refint\02.HalfSumElement.dll
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.pdb
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.genruntimeconfig.cache
+C:\Users\kader\Desktop\Bassic C#\02.HalfSumElement\obj\Debug\net6.0\ref\02.HalfSumElement.dll

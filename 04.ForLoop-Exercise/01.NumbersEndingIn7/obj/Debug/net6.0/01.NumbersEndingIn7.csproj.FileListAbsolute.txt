@@ -1,0 +1,14 @@
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.exe
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.deps.json
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.runtimeconfig.json
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.dll
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.pdb
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.AssemblyInfo.cs
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.dll
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\obj\Debug\net6.0\refint\01.NumbersEndingIn7.dll
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.pdb
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.genruntimeconfig.cache
+C:\Users\kader\Desktop\Bassic C#\01.NumbersEndingIn7\obj\Debug\net6.0\ref\01.NumbersEndingIn7.dll
