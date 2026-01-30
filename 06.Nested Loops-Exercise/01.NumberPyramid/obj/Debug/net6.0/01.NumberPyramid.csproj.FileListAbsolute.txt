@@ -1,0 +1,14 @@
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.exe
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.deps.json
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.runtimeconfig.json
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.dll
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.pdb
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.AssemblyInfo.cs
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.dll
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\obj\Debug\net6.0\refint\01.NumberPyramid.dll
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.pdb
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.genruntimeconfig.cache
+C:\Users\kader\Desktop\Bassic C#\01.NumberPyramid\obj\Debug\net6.0\ref\01.NumberPyramid.dll
