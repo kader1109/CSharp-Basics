@@ -19,28 +19,35 @@ namespace _06.CinemaTickets
 
                 int soldTickets = 0;
 
-                string ticketType = Console.ReadLine();
-
-                while (ticketType != "End" && soldTickets < seats)
+                while (soldTickets < seats)
                 {
+                    string ticketType = Console.ReadLine();
+
+                    if (ticketType == "End")
+                    {
+                        break;
+                    }
+
                     if (ticketType == "student")
-                    { studentCount++; }
-
+                    {
+                        studentCount++;
+                    }
                     else if (ticketType == "standard")
-                    { standardCount++; }
-
+                    {
+                        standardCount++;
+                    }
                     else if (ticketType == "kid")
-                    { kidCount++; }
+                    {
+                        kidCount++;
+                    }
 
                     soldTickets++;
-
-                    ticketType = Console.ReadLine();
                 }
 
                 double percentFull = soldTickets * 100.0 / seats;
                 Console.WriteLine($"{movieName} - {percentFull:F2}% full.");
 
-                command = Console.ReadLine(); // ЧЕТЕМ СЛЕДВАЩИЯ ФИЛМ
+                command = Console.ReadLine();
             }
 
             int totalTickets = studentCount + standardCount + kidCount;
